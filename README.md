@@ -1,3 +1,10 @@
+
+To publish a new version of this fork, follow https://docs.npmjs.com/creating-and-publishing-an-organization-scoped-package:
+1. Authenticate with npm with `npm adduser`
+2. Merge any desired changes
+3. Update the `version` field in `package.json`
+4. Run `npm publish --access public`
+
 # JSON→URL
 
 [![License: MIT](https://img.shields.io/github/license/jsonurl/jsonurl-js.svg?label=License)][license]
