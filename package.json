@@ -1,6 +1,6 @@
 {
   "name": "@scription/jsonurl",
-  "version": "1.1.8-pr660",
+  "version": "1.1.8-7081a32",
   "publishConfig": {
     "access": "public"
   },
