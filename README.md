@@ -3,7 +3,9 @@ To publish a new version of this fork, follow https://docs.npmjs.com/creating-an
 1. Authenticate with npm with `npm adduser`
 2. Merge any desired changes
 3. Update the `version` field in `package.json`
-4. Run `npm publish --access public`
+4. Push desired changes and version update.
+5. Run `npm run build`
+6. Run `npm publish --access public`
 
 # JSON→URL
 
